@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-Initial readme for the orga. Will invest some time from now on to improve the orga documentation overall.
+The Apollo-Core organization is part of the ApolloWf project. It contains the core of the Apollo orchestration platform. This organization is intended for the repositories containing the code which is executed in EVERY run of Apollo, while the more specialized
+parts of Apollo are maintained in other organizations.
 
 <!--
 
