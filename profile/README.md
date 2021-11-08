@@ -29,8 +29,8 @@ The Apollo-Core organization consists of 13 repositories:
 - [EE-Control](https://github.com/Apollo-Core/EE-Control) - main components controlling the orchestration at runtime
 - [EE-Visualization](https://github.com/Apollo-Core/EE-Visualization) - (real-time) visualization of the system model throughout the orchestration
 - [EE-Docker](https://github.com/Apollo-Core/EE-Docker) - execution of application functions in local Docker containers
-- [EE-Demo](https://github.com/Apollo-Core/EE-Demo) - simple applications for demonstration purposes
 - [EE-Deploy](https://github.com/Apollo-Core/EE-Deploy) - infrastructure for deploying Apollo as an orchestration (web) service
+- [EE-Demo](https://github.com/Apollo-Core/EE-Demo) - simple applications for demonstration purposes
 - [IntegrationTests](https://github.com/Apollo-Core/IntegrationTests) - integration tests used for the CI workflows
 - [RepositoryConfiguration](https://github.com/Apollo-Core/RepositoryConfiguration) - style for the code format, code quality rules applied during the CI checks
 
@@ -43,17 +43,17 @@ The following table provides the currently stable versions of the organization r
 Repository | Most Recent Stable Version | gradle dependency
 -----------|----------------------------|------------------
 [EE-Core](https://github.com/Apollo-Core/EE-Core) | 1.0.0 | implementation 'com.github.Apollo-Core:EE-Core:v1.0.0'
-[EE-Guice](https://github.com/Apollo-Core/EE-Guice) | 1.0.0 | implementation 'com.github.Apollo-Core:EE-Guice:v1.0.0'
+[EE-Guice](https://github.com/Apollo-Core/EE-Guice) | 1.0.1 | implementation 'com.github.Apollo-Core:EE-Guice:v1.0.1'
 [EE-Model](https://github.com/Apollo-Core/EE-Model) | 1.0.0 | implementation 'com.github.Apollo-Core:EE-Model:v1.0.0'
-[EE-IO](https://github.com/Apollo-Core/EE-IO) | 1.0.0 | implementation 'com.github.Apollo-Core:EE-IO:v1.0.0'
-[EE-Enactables](https://github.com/Apollo-Core/EE-Enactables) | 1.0.0 | implementation 'com.github.Apollo-Core:EE-Enactables:v1.0.0'
-[SC-Core](https://github.com/Apollo-Core/SC-Core) | 1.0.0 | implementation 'com.github.Apollo-Core:SC-Core:v1.0.0'
-[EE-Control](https://github.com/Apollo-Core/EE-Control) | 1.0.0 | implementation 'com.github.Apollo-Core:EE-Control:v1.0.0'
-[EE-Visualization](https://github.com/Apollo-Core/EE-Visualization) | 1.0.0 | implementation 'com.github.Apollo-Core:EE-Visualization:v1.0.0'
-[EE-Docker](https://github.com/Apollo-Core/EE-Docker) | 1.0.0 | implementation 'com.github.Apollo-Core:EE-Docker:v1.0.0'
-[EE-Deploy](https://github.com/Apollo-Core/EE-Deploy) | 1.0.0 | implementation 'com.github.Apollo-Core:EE-Deploy:v1.0.0'
-[EE-Demo](https://github.com/Apollo-Core/EE-Demo) | 1.0.0 | -
-[IntegrationTests](https://github.com/Apollo-Core/IntegrationTests) | 1.0.0 | -
+[EE-IO](https://github.com/Apollo-Core/EE-IO) | 1.0.1 | implementation 'com.github.Apollo-Core:EE-IO:v1.0.1'
+[EE-Enactables](https://github.com/Apollo-Core/EE-Enactables) | 1.0.1 | implementation 'com.github.Apollo-Core:EE-Enactables:v1.0.1'
+[SC-Core](https://github.com/Apollo-Core/SC-Core) | 1.0.1 | implementation 'com.github.Apollo-Core:SC-Core:v1.0.1'
+[EE-Control](https://github.com/Apollo-Core/EE-Control) | 1.0.1 | implementation 'com.github.Apollo-Core:EE-Control:v1.0.1'
+[EE-Visualization](https://github.com/Apollo-Core/EE-Visualization) | 1.0.1 | implementation 'com.github.Apollo-Core:EE-Visualization:v1.0.1'
+[EE-Docker](https://github.com/Apollo-Core/EE-Docker) | 1.0.1 | implementation 'com.github.Apollo-Core:EE-Docker:v1.0.1'
+[EE-Deploy](https://github.com/Apollo-Core/EE-Deploy) | 1.0.1 | implementation 'com.github.Apollo-Core:EE-Deploy:v1.0.1'
+[EE-Demo](https://github.com/Apollo-Core/EE-Demo) | 1.0.1 | -
+[IntegrationTests](https://github.com/Apollo-Core/IntegrationTests) | 1.0.1 | -
 
 
 
