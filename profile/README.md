@@ -44,9 +44,9 @@ Repository | Most Recent Stable Version | gradle dependency
 -----------|----------------------------|------------------
 [EE-Core](https://github.com/Apollo-Core/EE-Core) | 1.0.1 | implementation 'com.github.Apollo-Core:EE-Core:v1.0.1'
 [EE-Guice](https://github.com/Apollo-Core/EE-Guice) | 1.0.2 | implementation 'com.github.Apollo-Core:EE-Guice:v1.0.2'
-[EE-Model](https://github.com/Apollo-Core/EE-Model) | 1.0.1 | implementation 'com.github.Apollo-Core:EE-Model:v1.0.1'
+[EE-Model](https://github.com/Apollo-Core/EE-Model) | 1.0.2 | implementation 'com.github.Apollo-Core:EE-Model:v1.0.2'
 [EE-IO](https://github.com/Apollo-Core/EE-IO) | 1.0.2 | implementation 'com.github.Apollo-Core:EE-IO:v1.0.2'
-[EE-Enactables](https://github.com/Apollo-Core/EE-Enactables) | 1.0.2 | implementation 'com.github.Apollo-Core:EE-Enactables:v1.0.2'
+[EE-Enactables](https://github.com/Apollo-Core/EE-Enactables) | 1.0.3 | implementation 'com.github.Apollo-Core:EE-Enactables:v1.0.3'
 [SC-Core](https://github.com/Apollo-Core/SC-Core) | 1.0.2 | implementation 'com.github.Apollo-Core:SC-Core:v1.0.2'
 [EE-Control](https://github.com/Apollo-Core/EE-Control) | 1.0.2 | implementation 'com.github.Apollo-Core:EE-Control:v1.0.2'
 [EE-Visualization](https://github.com/Apollo-Core/EE-Visualization) | 1.0.2 | implementation 'com.github.Apollo-Core:EE-Visualization:v1.0.2'
