@@ -12,11 +12,9 @@ The Apollo-Core organization is part of the [ApolloWf](https://apollowf.github.i
 
 ## Getting Started
 
-A short introduction of Apollo's purpose and its focus user group is provided in the following video:
+A short introduction of Apollo's purpose and its focus user group is provided in the following video (click the image):
 
-<p align="center">
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/Jb-jaxuSUDs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-</p>
+[![Watch the video](./img/thumbNailIntro.png)](https://www.youtube.com/watch?v=Jb-jaxuSUDs)
 
 
 A brief guide to quickly set up a running orchestration is provided in the [EE-Demo](https://github.com/Apollo-Core/EE-Demo) repository.
