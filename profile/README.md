@@ -12,11 +12,26 @@ The Apollo-Core organization is part of the [ApolloWf](https://apollowf.github.i
 
 ## Getting Started
 
-A short introduction of Apollo's purpose and its focus user group is provided in a [Youtube video](https://www.youtube.com/watch?v=Jb-jaxuSUDs).
+- A short introduction of Apollo's purpose and its focus user group is provided in a [Youtube video](https://www.youtube.com/watch?v=Jb-jaxuSUDs).
 
-A brief guide to quickly set up a running orchestration is provided in the [EE-Demo](https://github.com/Apollo-Core/EE-Demo) repository and in a [Youtube video](https://www.youtube.com/watch?v=KFoT99tpJBk).
+- A brief guide to quickly set up a running orchestration is provided in the [EE-Demo](https://github.com/Apollo-Core/EE-Demo) repository and in a [Youtube video](https://www.youtube.com/watch?v=KFoT99tpJBk).
+
+- A hands-on tutorial demonstrating the tooling and the steps necessary to orchestrate applications with Apollo is provided in the [Tutorial](https://github.com/Apollo-Core/Tutorial) repository and in a [series of Youtube videos](https://youtube.com/playlist?list=PL6bKn3xU682w9z7IIUMezpixWf5_ye2sN).
 
 ----------------------------
+
+## Issues and Feature Requests
+
+If you find issues/bugs or have an idea or need for certain extensions of the framework, please formulate an issue in the repository which seems most appropriate and/or reach our directly by writing an email to [apolloruntime@gmail.com](mailto:apolloruntime@gmail.com).
+
+-----------------------------------
+
+
+## Citation
+
+Apollo's system and orchestration models have been published in [[1]](#1) and [[2]](#2). If you find Apollo to be useful for your work, please consider citing [[2]](#2).
+
+-----------------------------------
 
 ## Organization Overview
 
@@ -57,6 +72,19 @@ Repository | Most Recent Stable Version | gradle dependency
 [EE-Demo](https://github.com/Apollo-Core/EE-Demo) | 1.0.2 | -
 [IntegrationTests](https://github.com/Apollo-Core/IntegrationTests) | 1.0.2 | -
 
+
+--------------------------------
+
+## References
+<a id="1">[1]</a> 
+Smirnov, F. S. et al. (2021). 
+Apollo: Modular and distributed runtime system for serverless function compositions on cloud, edge, and iot resources. 
+Proceedings of the 1st Workshop on High Performance Serverless Computing, 5-8.
+
+<a id="2">[2]</a> 
+Smirnov, F. S. et al. (2021). 
+Apollo: Towards an efficient distributed orchestration of serverless function compositions in the cloud-edge continuum. 
+Proceedings of the 14th IEEE/ACM International Conference on Utility and Cloud Computing, 1-10.
 
 
 <!--
