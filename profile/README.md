@@ -51,6 +51,7 @@ The Apollo-Core organization consists of 13 repositories:
 - [IntegrationTests](https://github.com/Apollo-Core/IntegrationTests) - integration tests used for the CI workflows
 - [RepositoryConfiguration](https://github.com/Apollo-Core/RepositoryConfiguration) - style for the code format, code quality rules applied during the CI checks
 
+<!--
 ------------------------------
 
 ## Versioning
@@ -71,7 +72,16 @@ Repository | Most Recent Stable Version | gradle dependency
 [EE-Deploy](https://github.com/Apollo-Core/EE-Deploy) | 1.0.2 | implementation 'com.github.Apollo-Core:EE-Deploy:v1.0.2'
 [EE-Demo](https://github.com/Apollo-Core/EE-Demo) | 1.0.2 | -
 [IntegrationTests](https://github.com/Apollo-Core/IntegrationTests) | 1.0.2 | -
+-->
 
+--------------------------------
+
+## Uses
+
+- [VertX](https://vertx.io/)
+- [OpenDse](https://github.com/SDARG/opendse)
+
+Special thanks to @michaelhglass for designing the Apollo logo.
 
 --------------------------------
 
