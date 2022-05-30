@@ -75,6 +75,7 @@ Repository | Most Recent Stable Version | gradle dependency
 
 
 --------------------------------
+-->
 
 ## Uses
 
