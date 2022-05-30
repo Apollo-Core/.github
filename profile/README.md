@@ -72,7 +72,7 @@ Repository | Most Recent Stable Version | gradle dependency
 [EE-Deploy](https://github.com/Apollo-Core/EE-Deploy) | 1.0.2 | implementation 'com.github.Apollo-Core:EE-Deploy:v1.0.2'
 [EE-Demo](https://github.com/Apollo-Core/EE-Demo) | 1.0.2 | -
 [IntegrationTests](https://github.com/Apollo-Core/IntegrationTests) | 1.0.2 | -
--->
+
 
 --------------------------------
 
@@ -82,6 +82,13 @@ Repository | Most Recent Stable Version | gradle dependency
 - [OpenDse](https://github.com/SDARG/opendse)
 
 Special thanks to @michaelhglass for designing the Apollo logo.
+
+## Related Apollo Organizations 
+
+- [Apollo-AFCL](https://github.com/Apollo-AFCL)
+- [Apollo-Functions](https://github.com/Apollo-Functions)
+- [Apollo-Tools](https://github.com/Apollo-Tools)
+- [Apollo-Workflows](https://github.com/Apollo-Workflows)
 
 --------------------------------
 
