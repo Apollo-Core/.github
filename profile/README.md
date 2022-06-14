@@ -82,8 +82,6 @@ Repository | Most Recent Stable Version | gradle dependency
 - [VertX](https://vertx.io/)
 - [OpenDse](https://github.com/SDARG/opendse)
 
-Special thanks to @michaelhglass for designing the Apollo logo.
-
 ## Related Apollo Organizations 
 
 - [Apollo-AFCL](https://github.com/Apollo-AFCL)
